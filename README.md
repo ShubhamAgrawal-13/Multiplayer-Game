@@ -1,5 +1,6 @@
 Multiplayer Game:
 -----------------
+![Game gif](game.gif)
 
 Common Area shared by players: (Game area)
 ------------------------------
